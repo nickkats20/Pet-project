@@ -3,7 +3,7 @@ public class NickKat extends Pet {
 
     // constructors
     public NickKat() {
-        super();
+        super("Ben");
     }
 
     public NickKat(String n){
