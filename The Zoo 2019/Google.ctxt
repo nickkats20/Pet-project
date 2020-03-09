@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Google
+comment1.params=
+comment1.target=Google()
+comment2.params=theName
+comment2.target=Google(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ speak()
+numComments=4

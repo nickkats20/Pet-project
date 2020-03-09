@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Kat
+comment1.params=
+comment1.target=Kat()
+comment2.params=name
+comment2.target=Kat(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ speak()
+numComments=4

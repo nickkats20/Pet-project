@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ticket
+comment0.text=\r\n\ \ \ Ticket\ class\ -\ start\ of\ Inheritance\ Hierechy\ \r\n
+comment1.params=
+comment1.target=Ticket()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ticket\r\n
+comment2.params=
+comment2.target=double\ getPrice()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ getNextSerialNumber()
+numComments=5

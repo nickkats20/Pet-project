@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LoudParrot
+comment0.text=\r\n\ Parrot\ subclass\ from\ Pet\r\n\r\n\ @author\ (Jacob\ Harman)\r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=LoudParrot()
+comment2.params=name
+comment2.target=LoudParrot(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ speak()
+numComments=4

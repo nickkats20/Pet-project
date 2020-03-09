@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ This\ class\ is\ meant\ to\ represent\ a\ very\ simple\ passenger\ Car.\r\n\ @author\ (Tim\ Barron)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Car()
+comment2.params=theMake\ theModel\ theColor\ miles
+comment2.target=Car(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getMake()
+comment4.params=
+comment4.target=java.lang.String\ getModel()
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment6.params=
+comment6.target=double\ getMileage()
+comment7.params=numMiles
+comment7.target=void\ move(double)
+comment8.params=
+comment8.target=void\ printReport()
+numComments=9
