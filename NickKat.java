@@ -1,6 +1,4 @@
 public class NickKat extends Pet {
-
-
     // constructors
     public NickKat() {
         super("Ben");
