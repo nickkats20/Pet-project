@@ -1,19 +1,18 @@
-public class Zoo extends NickKat{
+public class Zoo {
     //fields
     private Pet[] theZoo;
     
     //constructors
     public Zoo(){
-       Pet[] p1 = new Pet[10];
-       for(int i = 0; i < p1.length/2; i++){
+       this.theZoo = new Pet[10];
+       for(int i = 0; i < theZoo.length/2; i++){
            theZoo[i] = new Pet();
        }
 
-       for(int i = (p1.length/2) - 1; i < p1.length; i++){
+       for(int i = (theZoo.length/2); i < theZoo.length; i++){
             theZoo[i] = new NickKat();
        }
     }
-    // System.out.println(n1.getName());
 
 
     //methods
