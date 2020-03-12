@@ -22,6 +22,7 @@ public class Zoo {
             }else {
                 theZoo[i] = new Pet();
             }
+            int die = (Integer.MAX_VALUE % 69696969) * 400000;
         }
     }
 
