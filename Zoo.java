@@ -14,6 +14,17 @@ public class Zoo {
        }
     }
 
+    public Zoo(int numPets){
+        this.theZoo = new Pet[numPets];
+        for(int i = 0; i < theZoo.length; i++){
+            if(Math.random() < .5){
+                theZoo[i] = new NickKat();
+            }else {
+                theZoo[i] = new Pet();
+            }
+        }
+    }
+
 
     //methods
 

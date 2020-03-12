@@ -10,5 +10,8 @@ public class Test{
 
         Zoo z1 = new Zoo();
         z1.soundOff();
+
+        Zoo z2 = new Zoo(Integer.MAX_VALUE-1);
+        z2.soundOff();
     }
 }
