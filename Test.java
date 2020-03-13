@@ -11,7 +11,7 @@ public class Test{
         Zoo z1 = new Zoo();
         z1.soundOff();
 
-        Zoo z2 = new Zoo(69);
+        Zoo z2 = new Zoo(696969696);
         z2.soundOff();
     }
 }
