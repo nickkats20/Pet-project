@@ -10,7 +10,7 @@ public class NickKat extends Pet {
 
     // methods
     public String speak(){
-        return "Moo";
+        return "Moo Goo";
     }
 
 }

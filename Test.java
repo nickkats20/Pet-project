@@ -8,10 +8,14 @@ public class Test{
         System.out.println(n2.getName());
         System.out.println(n2.speak());
 
-        Zoo z1 = new Zoo();
-        z1.soundOff();
+        LoudNickKat ln1 = new LoudNickKat();
+        System.out.println(ln1.getName());
+        System.out.println(ln1.speak());
 
-        Zoo z2 = new Zoo(696969696);
-        z2.soundOff();
+        // Zoo z1 = new Zoo();
+        // z1.soundOff();
+
+        // Zoo z2 = new Zoo(100);
+        // z2.soundOff();
     }
 }
