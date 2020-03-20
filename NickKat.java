@@ -4,13 +4,16 @@ public class NickKat extends Pet {
         super("Ben");
     }
 
-    public NickKat(String n){
+    public NickKat(String n) {
         super(n);
     }
 
     // methods
-    public String speak(){
+    public String speak() {
         return "Moo Goo";
     }
 
+    public String walk() {
+        return "Bipedal";
+    }
 }

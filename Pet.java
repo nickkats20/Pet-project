@@ -1,32 +1,26 @@
 /**
  * The Pet class - a start of the Pet Inheritance Hierarchy
  */
-public class Pet
-{
-    //fields
+public abstract class Pet {
+    // fields
     private String name;
 
-    //constructors
-    public Pet()
-    {
+    // constructors
+    public Pet() {
         name = "default pet";
     }
 
-    
-    public Pet(String n)
-    {
+    public Pet(String n) {
         name = n;
     }
-    //methods
-    
-    public String getName()
-    {
+
+    // methods
+    public String getName() {
         return name;
     }
-    
-    public String speak()
-    {
-        return "default pet sound";
-    }
-}
 
+    public abstract String speak();
+
+    public abstract String walk();
+
+}
